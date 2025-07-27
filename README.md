@@ -30,7 +30,7 @@ This is a simple web application built using PHP, MySQL, HTML, and CSS. It allow
 
 1. Place index.php into your htdocs folder (if using XAMPP).
 2. Start Apache and MySQL via XAMPP.
-3. Visit http://localhost/index.php in your browser.
+3. Visit http://localhost/inex.php in your browser.
 4. Use the form to add users.
 5. Click "Toggle" to switch user status between 0 and 1.
 
